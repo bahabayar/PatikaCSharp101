@@ -10,6 +10,7 @@ namespace AdSoyadHosgeldin
     {
         static void Main(string[] args)
         {
+            
           Console.WriteLine("İsminizi girin");
           string name =   Console.ReadLine();
             Console.WriteLine("Soyadınızı Girin");
