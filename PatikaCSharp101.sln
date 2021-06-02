@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Operatörler", "Operatörle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{D115BA84-B883-4DD9-B789-D183E96B7AF4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tip Donusumleri", "Tip Donusumleri", "{0732F489-6A14-4334-9D99-C85FA151A59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion", "Conversion\Conversion.csproj", "{8EE1848D-1EBF-4D03-A283-D3A5D3914E96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{D115BA84-B883-4DD9-B789-D183E96B7AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D115BA84-B883-4DD9-B789-D183E96B7AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D115BA84-B883-4DD9-B789-D183E96B7AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE1848D-1EBF-4D03-A283-D3A5D3914E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE1848D-1EBF-4D03-A283-D3A5D3914E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE1848D-1EBF-4D03-A283-D3A5D3914E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE1848D-1EBF-4D03-A283-D3A5D3914E96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{3A727C85-EF59-4087-A1B2-63D87CAF65EA} = {4DE574D5-323C-44D3-A992-512BDD5746EE}
 		{672DE313-51B8-41F1-9EBE-FDF10FF6DC73} = {C3D1AD78-937C-4F2E-B6D4-70AB6567BC5C}
 		{D115BA84-B883-4DD9-B789-D183E96B7AF4} = {DADBFBCE-FA6B-4B20-8A15-A9781899814F}
+		{8EE1848D-1EBF-4D03-A283-D3A5D3914E96} = {0732F489-6A14-4334-9D99-C85FA151A59D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {162B7062-18F7-4368-8F5A-DE4521247DFD}
